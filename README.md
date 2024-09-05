@@ -37,7 +37,7 @@ Whether you're new to the gym or a seasoned pro, **KimoFit** provides customized
 <div>
 <a href='https://play.google.com/store/apps/details?id=com.kimofit.app'><img alt='Get it on Google Play' src='assets/stores/google_play.png' height='48px'/></a>
 <a href='https://apps.apple.com/us/app/kimofit/id6642661811?platform=iphone'><img alt='Get it on the App Store' src='assets/stores/app_store.png' height='48px'/></a>
-<a href=https://github.com/jemyJR/jemyJR/blob/869edfd42777831c1fa1ca4ee0cda5f72480db2b/projects-readme/kimofit-README.md" target="_blank">
+<a href='projects-readme/kimofit-README.md' target="_blank">
   <img alt="GitHub" src="https://img.shields.io/badge/readme%20file%20-blue?style=for-the-badge&logo=github&logoColor=white" height="40" />
 </a>
 
