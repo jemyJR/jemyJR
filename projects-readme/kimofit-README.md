@@ -95,6 +95,7 @@ The KimoFit home screen provides a range of features for users:
 - **Categories:** These navigate to different sections such as warmup, workout, diet, etc.
 - **Contacts**: Shows the coach's social media links for quick access.
 - **Pull to Refresh:** Users can pull down to refresh the home screen, and a shimmer widget appears while data is loading from the API.
+- **Important Notice:** An alert is displayed with the message: _"Uninstalling the application or clearing its data will prevent you from accessing your account again. So be careful."_ Users can dismiss this notice or choose not to show it again.
 
 ### Client Types and Subscriptions
 1.  **Paid Clients:** Can choose subscription plans of 1, 2, 3, or more months, giving them full access to all features and sponsors.
@@ -117,7 +118,7 @@ This structure ensures a clear, consistent experience for both client types and 
 ![08](https://github.com/user-attachments/assets/20261628-02cd-4230-8c3d-29cbfb8545b5)
 ![09](https://github.com/user-attachments/assets/737eed5f-05fd-495c-99d4-6bea8c4367b5)
 ![10](https://github.com/user-attachments/assets/611185c3-9b96-4e46-bb0d-24abecab6246)
-
+![11](https://github.com/user-attachments/assets/5562411e-b88c-4573-a5fb-10b2a7ec3035)
 
 
 
@@ -127,3 +128,29 @@ This structure ensures a clear, consistent experience for both client types and 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
+
+## Profile Screen
+
+The profile screen in KimoFit provides users with detailed information about their account and subscription, along with essential actions:
+
+
+- **Custom Animation:** A smooth, custom animation enhances navigation between the home and profile screens.
+- **Shimmer Widget:** While data is being loaded from the API, a shimmer widget is displayed to improve the user experience.
+- **Personal Information:** Displays the user's name and phone number, which were used during signup. The coach can also add age, height, and weight for the client from the dashboard.
+- **Subscription Information:** Includes details such as the subscription start date, end date, and duration.
+  
+### Profile Actions
+
+1. **Change Password:** Navigates to a screen where users can enter their old and new passwords to change their credentials.
+2. **Delete Account:** When clicked, an alert is shown with the message: _"Are you sure you want to delete your account?"_ Users are given the options to confirm with Delete or dismiss with Cancel.
+3. **Logout:** Logs the user out by deleting all credentials and navigating them back to the login screen.
+
+![12](https://github.com/user-attachments/assets/d5b87159-3434-4a8c-b0ae-7c8a04720bac)
+![13](https://github.com/user-attachments/assets/d3f719dd-be97-42a1-976d-88d36b60e089)
+![14](https://github.com/user-attachments/assets/d2d6177e-c2f0-49ac-81ad-e14e654bd420)
+![15](https://github.com/user-attachments/assets/a31c472c-791d-4cf0-837a-ad6bf32a77af)
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
