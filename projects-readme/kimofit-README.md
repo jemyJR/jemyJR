@@ -154,3 +154,35 @@ The profile screen in KimoFit provides users with detailed information about the
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+## Warm-up Exercises Screen
+
+KimoFit provides a warm-up section tailored to user needs. The feature includes:
+
+- **Categories:** When selecting Warm-up Exercises, users can choose between two categories: Upper Body and Lower Body.
+- **Hero Animation:** A smooth animation occurs when navigating between the category selection (Upper Body or Lower Body) and the exercise slider screen.
+- **Exercise Slider:** Each category leads to a slider showing different exercises, accompanied by a GIF and customizable fields:
+
+1. Reps
+2. Sets
+3. Weight
+4. Duration
+
+The coach can choose which fields to include.
+
+- **Navigation:** Users can easily swipe left or right through the exercises using the slider buttons.
+- **No Data Message:** If no exercises are assigned, the message: _"Sorry, there is no current data. Please contact us to obtain data specifically for you."_ is displayed.
+
+This ensures an interactive and flexible warm-up experience for each user.
+
+![16](https://github.com/user-attachments/assets/31f2d648-3ba6-4cd4-b6c6-9260d980d138)
+![17](https://github.com/user-attachments/assets/439c2137-edbb-4541-9a87-aead9bca1e5d)
+![18](https://github.com/user-attachments/assets/56dd54f1-14fe-4253-b2b8-205c6adbf52d)
+![19](https://github.com/user-attachments/assets/2badfd7e-1f1a-473f-bf2c-d5880c94acec)
+
+
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
