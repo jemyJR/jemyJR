@@ -301,3 +301,40 @@ This screen ensures that users have a clear and organized view of their meal pla
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+
+## Supplement Screen
+The Supplement Screen in KimoFit provides clients with a detailed list of supplements prescribed by their coach.
+
+### Supplement List
+Each supplement is displayed with:
+
+- **Image:** A visual representation of the supplement.
+- **Doses:** Each supplement can have one or more doses. For each dose, the following details are provided:
+     - **Number of Doses:** Indicates how many doses to take.
+     - **Time of Intake:** Specifies the recommended time for taking the dose (e.g., morning, afternoon, evening).
+       
+This screen helps users stay on track with their supplement regimen by providing clear guidelines for dosage and intake timing.
+
+![35](https://github.com/user-attachments/assets/46d16aa0-17c1-4a1a-a16d-46831c826272)
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## Food Recipe Book Screen
+
+The Food Recipe Book Screen in KimoFit provides clients with access to a PDF containing various recipes.
+
+- The screen displays a PDF viewer, allowing users to read and navigate through the recipe book.
+- Users can zoom in, zoom out, and scroll through the PDF for a comprehensive view of all the recipes.
+
+This simple yet effective feature ensures that clients can easily access and follow recipes provided by the coach in a clear PDF format.
+
+![36](https://github.com/user-attachments/assets/938d8952-1796-496d-8bdd-380c42833dc2)
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
