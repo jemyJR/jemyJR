@@ -247,3 +247,57 @@ This comprehensive layout ensures users have access to all the tools needed to t
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
+
+## Home Cardio Exercises Screen
+The home cardio exercises screen in KimoFit provides a user-friendly layout to guide clients through their cardio workouts.
+
+### Timer and Calendar Widget
+- **Toggle Button**: Allows switching between a Timer and a Calendar view.
+- **Calendar:**
+     - Users can select weeks and days from dropdown menus.
+     - Days can include entries like one, two, three, etc., or "Rest Day," or "No Data Found."
+- **Timer:**
+     - Users can select from preset timer options (e.g., 30 seconds, 1 minute).
+     - Once a timer is selected, it opens a countdown with a visual indicator and buttons for Start and End.
+     - When the timer reaches zero, a "Time Up" message is shown, and users can click the checkmark icon to return to the timer options.
+
+### Cardio Exercises Slider
+
+The cardio exercises section is designed like the Warm-up Screen:
+
+- **Exercise Slider:** Displays a series of cardio exercises, allowing users to scroll through the routines.
+- Each exercise includes relevant details such as Reps, Sets, Weight, and Duration, which can be customized by the coach based on the user’s workout plan.
+
+This layout ensures clients can easily track their cardio exercises while using intuitive tools to manage their sessions.
+
+![31](https://github.com/user-attachments/assets/4930237c-acde-474f-ad62-a954ee22bfa3)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## Diet Plan Screen
+
+The Diet Plan Screen in KimoFit provides clients with a structured meal plan, customizable by their coach. It features two main sections: Meals and Notes.
+
+### Categories
+At the top of the screen, users can choose from categories such as Week 1, Week 2, Week 3, etc., or select a category called Meals Only.
+
+### Meals Section
+When the user clicks on Meals, it opens an expandable list of meals using an expanded title widget. Each meal can have one or more options, with the options separated by a line and labeled with "OR." Each option contains a list of ingredients, with each ingredient followed by a "+" symbol to indicate its inclusion.
+
+- **Multiple Options:** Some meals have more than one option to provide flexibility in the diet plan. Users can choose between these options based on their preferences or dietary requirements.
+- **Ingredients:** Each option within a meal includes a list of ingredients, clearly outlined to guide the client.
+
+### Notes Section
+In the Notes section, users can view any personalized notes their coach has added to guide them through their meal plan or provide additional nutritional advice.
+
+This screen ensures that users have a clear and organized view of their meal plan, with flexibility in selecting meal options and understanding the ingredients involved.
+
+![32](https://github.com/user-attachments/assets/98b25d37-0f95-43a2-80f3-15b163352cd8)
+![33](https://github.com/user-attachments/assets/775fa295-868a-4cee-9529-3320ad44e137)
+![34](https://github.com/user-attachments/assets/bd1097de-f2ed-4f4d-8475-9b7ea78ec3cb)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
