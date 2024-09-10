@@ -161,6 +161,7 @@ KimoFit provides a warm-up section tailored to user needs. The feature includes:
 
 - **Categories:** When selecting Warm-up Exercises, users can choose between two categories: Upper Body and Lower Body.
 - **Hero Animation:** A smooth animation occurs when navigating between the category selection (Upper Body or Lower Body) and the exercise slider screen.
+- **Shimmer Widget:** While data is being loaded from the API, a shimmer widget is displayed to improve the user experience.
 - **Exercise Slider:** Each category leads to a slider showing different exercises, accompanied by a GIF and customizable fields:
 
 1. Reps
@@ -181,6 +182,66 @@ This ensures an interactive and flexible warm-up experience for each user.
 ![19](https://github.com/user-attachments/assets/2badfd7e-1f1a-473f-bf2c-d5880c94acec)
 
 
+
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## Workout Screen
+The workout screen in KimoFit is designed to guide users through their exercise routines with useful tools and features.
+
+### Timer and Calendar Widget
+- **Toggle Button**: Allows switching between a Timer and a Calendar view.
+- **Calendar:**
+     - Users can select weeks and days from dropdown menus.
+     - Days can include entries like one, two, three, etc., or "Rest Day," or "No Data Found."
+- **Timer:**
+     - Users can select from preset timer options (e.g., 30 seconds, 1 minute).
+     - Once a timer is selected, it opens a countdown with a visual indicator and buttons for Start and End.
+     - When the timer reaches zero, a "Time Up" message is shown, and users can click the checkmark icon to return to the timer options.
+### Workout Sections
+Beneath the timer and calendar widget, the workout screen is divided into several sections:
+
+1. **Warm-up:** A shortcut to the warm-up exercises (can be lower or upper body). Coaches can assign this to the client.
+2. **Workout Exercises:** Main workout section.
+3. **Abs Exercises:** Focused on abdominal exercises.
+4. **Cardio Exercises:** Cardiovascular-focused routines.
+
+### Exercise Layouts
+
+Exercises in the workout, abs, and cardio sections can be displayed in two formats:
+
+- **Single Exercises:** Shown individually with relevant details.
+- **Group Exercises:** Displayed with a border and labeled as a "Super Set," grouping multiple exercises together.
+  
+### Exercise Features
+
+**Each exercise includes:**
+
+- An Image, Name, and Number of Sets.
+- **A Notes button:** Clicking this opens a dialog with notes about the exercise (if available).
+- **Exercise Logs:** Clicking opens a bottom sheet with a table showing logs for sets, reps, and weight.
+- Users can click on the weight field to open a slider, allowing them to update their weight based on the selected value.
+- Clicking on an exercise opens an Exercise Details Screen, which features a slider at the top showing images and videos of the exercise, along with a detailed description below.
+  
+**Cardio Exercises**
+Cardio exercises have all the same features as workout and abs exercises but do not have an exercise log bottom sheet. Instead, they can include fields for Sets, Reps, Weight, and Duration, which the coach can customize.
+
+
+This comprehensive layout ensures users have access to all the tools needed to track and execute their workouts effectively.
+
+![20](https://github.com/user-attachments/assets/f6e77f04-d6c8-4a01-b6b7-422854b041e7)
+![21](https://github.com/user-attachments/assets/5f18c90c-0d1e-4f4b-8ea2-ff0224d549aa)
+![22](https://github.com/user-attachments/assets/2a001f2f-da5f-4deb-8a01-0726c9762a1a)
+![23](https://github.com/user-attachments/assets/a7e688e8-34ae-4240-8747-d8a63ed7c056)
+![24](https://github.com/user-attachments/assets/40f59c84-2fb2-45f4-a42b-fd105d93da0c)
+![25](https://github.com/user-attachments/assets/755cedb9-2a39-44b3-91f0-076ac1a2a384)
+![26](https://github.com/user-attachments/assets/d2bc0496-0ddb-4fc7-90e2-8bb175d860b2)
+![27](https://github.com/user-attachments/assets/12491074-b1bd-4453-a826-347e8bc21c57)
+![28](https://github.com/user-attachments/assets/fbd6f2d8-f6e3-458e-92ef-5f1d77bc9bda)
+![29](https://github.com/user-attachments/assets/8438cdf4-5161-4829-b12a-5cd692216ea7)
+![30](https://github.com/user-attachments/assets/bf6e3168-bc4d-4f8a-a890-d6fe243e7599)
 
 
 <div align="center">
