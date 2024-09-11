@@ -332,7 +332,8 @@ The Food Recipe Book Screen in KimoFit provides clients with access to a PDF con
 
 This simple yet effective feature ensures that clients can easily access and follow recipes provided by the coach in a clear PDF format.
 
-![36](https://github.com/user-attachments/assets/938d8952-1796-496d-8bdd-380c42833dc2)
+![36](https://github.com/user-attachments/assets/81308484-d6dd-439d-aecd-fe640597791c)
+
 
 
 <div align="center">
