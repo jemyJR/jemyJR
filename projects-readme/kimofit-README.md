@@ -36,6 +36,43 @@
 </div>
 
 
+## 🎨 Features
+
+### 1. 🎨 **User Experience and Design**
+- 🖼️ **Responsive and User-Friendly UI**: KimoFit provides a modern and intuitive user interface that works seamlessly across various device sizes and resolutions, ensuring a consistent and enjoyable user experience.
+- 🎬 **Smooth Animations and Transitions**: Custom animations and transitions create a fluid, visually appealing interaction between screens, enhancing the app's overall look and feel.
+- 🌍 **Full Localization (English and Arabic)**: The entire app is localized, allowing users to easily switch between English and Arabic, ensuring accessibility for a wider audience.
+
+### 2. 🔐 **Security and Privacy**
+- 📵 **Screenshot and Screen Recording Prevention**: The app includes security measures to block screenshots and screen recording on both Android and iOS, protecting sensitive user information and ensuring privacy.
+
+### 3. 🗄️ **Data Management**
+- 💾 **Caching with Shared Preferences**: To enhance performance, KimoFit utilizes **SharedPreferences** for storing user data and preferences locally, allowing for faster load times and persistence of settings across sessions.
+- 🧩 **Dependency Injection with GetIt**: The app uses **GetIt** for dependency injection, promoting clean architecture, better code management, and testability, ensuring scalable development.
+
+### 4. 🛠️ **Development and Testing**
+- 🏷️ **Flavors for Different Environments**: KimoFit is developed using multiple flavors, each tailored for a specific phase of the app lifecycle:
+  - 🛠️ **Development**: For local development and feature testing.
+  - 🧪 **Staging**: For pre-production testing and QA.
+  - 🚀 **Production**: The final release version available to users.
+  
+- 🔧 **Custom Helper Functions**: Several helper functions are created to streamline repetitive tasks, improve code efficiency, and ensure consistency across the app.
+
+### 5. 📊 **Error Tracking and Monitoring**
+- 🛡️ **Firebase Crashlytics Integration**: Integrated with **Firebase Crashlytics** for real-time crash reporting, helping the development team quickly identify and fix issues, leading to a more stable and reliable app.
+
+### 6. 🔄 **CI/CD and Deployment**
+- ⚙️ **Continuous Integration and Continuous Delivery (CI/CD)**: 
+  - 📦 The app uses **Firebase App Distribution** and **FastLane** for automating Android build deployment.
+  - 🛠️ **GitHub Actions** streamline the development pipeline, automating testing and deployment processes.
+  - 🧪 **TestFlight** is utilized for distributing iOS builds to testers, ensuring smooth pre-release testing before the app reaches production.
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+
+## 📱 Project UI
+
 ## Splash Screen
 
 The KimoFit app features a custom splash screen that is optimized for both iOS and Android devices. It supports all device sizes and resolutions, ensuring a seamless experience on:
